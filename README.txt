@@ -24,14 +24,6 @@ INSTALLATION:
     dragon_tools: https://drive.google.com/drive/u/0/folders/1Z5KppdYDBWTBA6Bell59xA8zWeOHN64Z?ths=true
     Right-click on the fodderLevelTime folder and click "download"
 
-FOUND A BUG?
-    Feel free to post it on the Flight Rising forum post for dragonLevelTime.
-    (can't link it cause it doesn't exist yet, sorry)
-    Or message me directly (Flight Rising user TheAlmightySand)
-
-    Please include what your inputs to the program were. If the program crashed,
-    please copy-paste the error message in its entirety.
-
 
 ACKNOWLEDGEMENTS
 # Battle XP mechanics from: https://www1.flightrising.com/forums/gde/1046488
