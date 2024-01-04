@@ -1,0 +1,7 @@
+{
+"SECS_PER_BATTLE" : 10.39,
+"SECS_FIRST_BATTLE" : 24.44,
+"NUM_FODDER" : 1,
+"VENUE" : "./data/venues/kelp_beds.json",
+"RESET_TIME" : 0
+}

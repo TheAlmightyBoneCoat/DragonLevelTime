@@ -1,0 +1,6 @@
+{
+"SECS_PER_BATTLE" : "Insert your average seconds per battle AFTER the build has been set up. Erase these quotation marks.",
+"SECS_FIRST_BATTLE" : "Insert how many seconds the build's first/setup battle takes. Erase these quotes.",
+"NUM_FODDER" : "Number of fodder you train at once. No quotes.",
+"VENUE" : "./data/venues/FILE NAME HERE.json"
+}

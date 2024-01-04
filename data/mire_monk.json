@@ -1,0 +1,7 @@
+{
+"SECS_PER_BATTLE" : 9.574,
+"SECS_FIRST_BATTLE" : 28.32,
+"NUM_FODDER" : 2,
+"VENUE" : "./data/venues/mire.json",
+"RESET_TIME" : 0
+}
